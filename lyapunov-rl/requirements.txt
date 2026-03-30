@@ -1,0 +1,8 @@
+equinox==0.11.10
+jax==0.4.30
+jaxlib==0.4.30
+jaxtyping==0.2.36
+optax==0.2.4
+orbax-checkpoint==0.6.4
+rebound==4.6.0
+wandb==0.25.1
